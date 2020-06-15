@@ -1,0 +1,8 @@
+package com.example.getEmpDetails;
+
+public class LambdaHandler {
+        
+	handler.activateSpringProfiles("lambda");
+
+	
+}
